@@ -6,6 +6,7 @@ use China_Data.dta
 
 summarize temperature
 
-histogram terrain
+histogram terrain, title("Histograma")
 
 summ income_pc
+
